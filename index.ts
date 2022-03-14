@@ -12,3 +12,4 @@ let aa: A = new A(5);
 console.log(1);
 
 //aaa
+//bbbbb
