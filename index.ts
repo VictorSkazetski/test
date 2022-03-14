@@ -1,5 +1,3 @@
-console.log("1");
-
 class A {
     x: number;
 
